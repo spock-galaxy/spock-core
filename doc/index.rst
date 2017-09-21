@@ -10,6 +10,7 @@ Welcome to Spock's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   contributing
 
 
 Indices and tables
